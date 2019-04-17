@@ -1,0 +1,1 @@
+{"version":3,"file":"nick-database.js","sourceRoot":"","sources":["../../../src/shims/nick-database.ts"],"names":[],"mappings":";;AACA;;;;;GAKG;AACU,QAAA,YAAY,GAAG;IAC1B;QACE,IAAI,EAAE,YAAY;QAClB,cAAc,EAAE;YACd,gDAAgD;SACjD;KACF;IACD;QACE,IAAI,EAAE,YAAY;QAClB,cAAc,EAAE;YACd,gDAAgD;SACjD;KACF;CACF,CAAA"}
